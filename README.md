@@ -18,3 +18,10 @@
 #### 基于知识的推理
 * [[jair 2020] Ontology Reasoning with Deep Neural Networks.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682317/jair.2020.Ontology.Reasoning.with.Deep.Neural.Networks.pdf)
 
+#### 2022.acl
+* [2022.acl-long.35KaFSP- Knowledge-Aware Fuzzy Semantic Parsing for Conversational Question Answering over a Large-Scale Knowledge Base.pdf](https://github.com/ICTKC/Papers_DPC/files/8860698/2022.acl-long.35KaFSP-.Knowledge-Aware.Fuzzy.Semantic.Parsing.for.Conversational.Question.Answering.over.a.Large-Scale.Knowledge.Base.pdf)
+* [2022.acl-long.87-abs LexSubCon- Integrating Knowledge from Lexical Resources into Contextual Embeddings for Lexical Substitution.pdf](https://github.com/ICTKC/Papers_DPC/files/8860699/2022.acl-long.87-abs.LexSubCon-.Integrating.Knowledge.from.Lexical.Resources.into.Contextual.Embeddings.for.Lexical.Substitution.pdf)
+* [2022.acl-long.158-Knowledgeable Prompt-tuning- Incorporating Knowledge into Prompt Verbalizer for Text Classification.pdf](https://github.com/ICTKC/Papers_DPC/files/8860700/2022.acl-long.158-Knowledgeable.Prompt-tuning-.Incorporating.Knowledge.into.Prompt.Verbalizer.for.Text.Classification.pdf)
+* [2022.acl-long.210- KenMeSH- Knowledge-enhanced End-to-end Biomedical Text Labelling.pdf](https://github.com/ICTKC/Papers_DPC/files/8860701/2022.acl-long.210-.KenMeSH-.Knowledge-enhanced.End-to-end.Biomedical.Text.Labelling.pdf)
+* [2022.acl-long.221-Knowledge Enhanced Reflection Generation for Counseling Dialogues.pdf](https://github.com/ICTKC/Papers_DPC/files/8860703/2022.acl-long.221-Knowledge.Enhanced.Reflection.Generation.for.Counseling.Dialogues.pdf)
+* [2022.acl-long.224-Achieving Conversational Goals with Unsupervised Post-hoc Knowledge Injection.pdf](https://github.com/ICTKC/Papers_DPC/files/8860704/2022.acl-long.224-Achieving.Conversational.Goals.with.Unsupervised.Post-hoc.Knowledge.Injection.pdf)
