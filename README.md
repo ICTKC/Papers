@@ -7,6 +7,11 @@
 * [2022.acl-long.221-Knowledge Enhanced Reflection Generation for Counseling Dialogues.pdf](https://github.com/ICTKC/Papers_DPC/files/8860703/2022.acl-long.221-Knowledge.Enhanced.Reflection.Generation.for.Counseling.Dialogues.pdf)
 * [2022.acl-long.224-Achieving Conversational Goals with Unsupervised Post-hoc Knowledge Injection.pdf](https://github.com/ICTKC/Papers_DPC/files/8860704/2022.acl-long.224-Achieving.Conversational.Goals.with.Unsupervised.Post-hoc.Knowledge.Injection.pdf)
 
+#### 2021.nips
+* [How to transfer algorithmic reasoning knowledge to learn new algorithms?](https://proceedings.neurips.cc/paper/2021/hash/a2802cade04644083dcde1c8c483ed9a-Abstract.html)
+* [Dynamic Inference with Neural Interpreters](https://proceedings.neurips.cc/paper/2021/hash/5b4e9aa703d0bfa11041debaa2d1b633-Abstract.html)
+* [A Probabilistic State Space Model for Joint Inference from Differential Equations and Data](https://proceedings.neurips.cc/paper/2021/hash/6734fa703f6633ab896eecbdfad8953a-Abstract.html)
+
 #### 综述
 * [https://www.sciencedirect.com/topics/psychology/dual-process-theory](https://www.sciencedirect.com/topics/psychology/dual-process-theory)
 * [Dual-process theories- a metacognitive perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682304/Dual-process.theories-.a.metacognitive.perspective.pdf)
