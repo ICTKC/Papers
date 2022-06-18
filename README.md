@@ -10,7 +10,6 @@
 
 #### 2021.emnlp
 * [Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification](https://aclanthology.org/2021.emnlp-main.16/)
-* [Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge](Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge)
 * [Few-Shot Text Generation with Natural Language Instructions](https://aclanthology.org/2021.emnlp-main.32/)
 * [Injecting Entity Types into Entity-Guided Text Generation](https://aclanthology.org/2021.emnlp-main.56/)
 * [Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories](https://aclanthology.org/2021.emnlp-main.65/)
@@ -18,7 +17,7 @@
 * [Learning Logic Rules for Document-Level Relation Extraction](https://aclanthology.org/2021.emnlp-main.95/)
 * [RuleBERT: Teaching Soft Rules to Pre-Trained Language Models *](https://aclanthology.org/2021.emnlp-main.110/)
 * [How much pretraining data do language models need to learn syntax?](https://aclanthology.org/2021.emnlp-main.118/)
-* [Knowledge-Aware Meta-learning for Low-Resource Text Classification](Huaxiu Yao | Ying-xin Wu | Maruan Al-Shedivat | Eric Xing)
+* [Knowledge-Aware Meta-learning for Low-Resource Text Classification](https://aclanthology.org/2021.emnlp-main.136/)
 * [Generation and Extraction Combined Dialogue State Tracking with Hierarchical Ontology Integration](https://aclanthology.org/2021.emnlp-main.171/)
 * [CoLV: A Collaborative Latent Variable Model for Knowledge-Grounded Dialogue Generation](https://aclanthology.org/2021.emnlp-main.172/)
 * [A Three-Stage Learning Framework for Low-Resource Knowledge-Grounded Dialogue Generation](https://aclanthology.org/2021.emnlp-main.173/)
