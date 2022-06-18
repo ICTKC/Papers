@@ -54,10 +54,10 @@
 * [How to represent part-whole hierarchies in a neural network.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682320/How.to.represent.part-whole.hierarchies.in.a.neural.network.pdf)
 * [TensorLog  A Probabilistic Database Implemented Using Deep-Learning Infrastructure.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682321/TensorLog.A.Probabilistic.Database.Implemented.Using.Deep-Learning.Infrastructure.pdf)
 * [[jair 2020] Ontology Reasoning with Deep Neural Networks.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682317/jair.2020.Ontology.Reasoning.with.Deep.Neural.Networks.pdf)
-
-#### 综述
 * [https://www.sciencedirect.com/topics/psychology/dual-process-theory](https://www.sciencedirect.com/topics/psychology/dual-process-theory)
 * [Dual-process theories- a metacognitive perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682304/Dual-process.theories-.a.metacognitive.perspective.pdf)
+
+#### 综述
 * [Neural-Symbolic Computing- An Effective Methodology for Principled Integration of Machine Learning and Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682298/Neural-Symbolic.Computing-.An.Effective.Methodology.for.Principled.Integration.of.Machine.Learning.and.Reasoning.pdf)
 * [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf)
 * [[tkde21]Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6723067/tkde21.Informed.Machine.Learning.A.Taxonomy.and.Survey.of.Integrating.Prior.Knowledge.into.Learning.Systems.pdf)
