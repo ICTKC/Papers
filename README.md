@@ -1,3 +1,10 @@
+
+#### 综述
+1. [Neural-Symbolic Computing- An Effective Methodology for Principled Integration of Machine Learning and Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682298/Neural-Symbolic.Computing-.An.Effective.Methodology.for.Principled.Integration.of.Machine.Learning.and.Reasoning.pdf)
+2. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf)
+3. [[tkde21]Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6723067/tkde21.Informed.Machine.Learning.A.Taxonomy.and.Survey.of.Integrating.Prior.Knowledge.into.Learning.Systems.pdf)
+
+
 #### 2022.acl
 1. [KaFSP- Knowledge-Aware Fuzzy Semantic Parsing for Conversational Question Answering over a Large-Scale Knowledge Base.pdf](https://github.com/ICTKC/Papers_DPC/files/8860698/2022.acl-long.35KaFSP-.Knowledge-Aware.Fuzzy.Semantic.Parsing.for.Conversational.Question.Answering.over.a.Large-Scale.Knowledge.Base.pdf)
 2. [LexSubCon- Integrating Knowledge from Lexical Resources into Contextual Embeddings for Lexical Substitution.pdf](https://github.com/ICTKC/Papers_DPC/files/8860699/2022.acl-long.87-abs.LexSubCon-.Integrating.Knowledge.from.Lexical.Resources.into.Contextual.Embeddings.for.Lexical.Substitution.pdf)
@@ -65,10 +72,3 @@
 8. [[jair 2020] Ontology Reasoning with Deep Neural Networks.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682317/jair.2020.Ontology.Reasoning.with.Deep.Neural.Networks.pdf)
 9. [https://www.sciencedirect.com/topics/psychology/dual-process-theory](https://www.sciencedirect.com/topics/psychology/dual-process-theory)
 10. [Dual-process theories- a metacognitive perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682304/Dual-process.theories-.a.metacognitive.perspective.pdf)
-
-
-#### 综述
-1. [Neural-Symbolic Computing- An Effective Methodology for Principled Integration of Machine Learning and Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682298/Neural-Symbolic.Computing-.An.Effective.Methodology.for.Principled.Integration.of.Machine.Learning.and.Reasoning.pdf)
-2. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf)
-3. [[tkde21]Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6723067/tkde21.Informed.Machine.Learning.A.Taxonomy.and.Survey.of.Integrating.Prior.Knowledge.into.Learning.Systems.pdf)
-
