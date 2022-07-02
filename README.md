@@ -1,6 +1,7 @@
 
 #### 综述
 1. [Neural-Symbolic Computing- An Effective Methodology for Principled Integration of Machine Learning and Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682298/Neural-Symbolic.Computing-.An.Effective.Methodology.for.Principled.Integration.of.Machine.Learning.and.Reasoning.pdf)
+ *[Yanshun Sun Notes]() [Jing Yang Notes]()
 2. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf)
 3. [[tkde21]Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6723067/tkde21.Informed.Machine.Learning.A.Taxonomy.and.Survey.of.Integrating.Prior.Knowledge.into.Learning.Systems.pdf)
 
