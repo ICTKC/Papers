@@ -10,3 +10,12 @@
 1. [2021.ACL - TEXT2EVENT: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction](https://arxiv.org/pdf/2106.09232.pdf)
 2. [2021.ACL - CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction](https://aclanthology.org/2021.findings-acl.14.pdf)
 3. [2021.ACL - CLEVE: Contrastive Pre-training for Event Extraction](https://aclanthology.org/2021.acl-long.491.pdf)
+4. [2021.ACL - Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker](https://arxiv.org/pdf/2105.14924.pdf)
+5. [2021.ACL - Document-level Event Extraction via Parallel Prediction Networks](https://aclanthology.org/2021.acl-long.492.pdf)
+
+### 2021.emnlp
+1. [2021.EMNLP - Exploring Sentence Community for Document-Level Event Extraction](https://aclanthology.org/2021.findings-emnlp.32.pdf)
+
+### 2019.emnlp
+1. [2019.EMNLP - Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction](https://arxiv.org/pdf/1904.07535.pdf)
+
