@@ -1,4 +1,6 @@
 ## Event Extraction
+### 高引文章
+1. [2020.emnlp - Event Extraction by Answering (Almost) Natural Questions](https://arxiv.org/abs/2004.13625) ([Google Scholar Cites: 108 @ 2022.7](https://scholar.google.com/scholar?cluster=9433872342431399293&hl=zh-CN&as_sdt=2005&sciodt=0,5))
 
 ### 2022.acl
 1. [2022.ACL - UIE: Unified Structure Generation for Universal Information Extraction](https://arxiv.org/pdf/2203.12277.pdf)
