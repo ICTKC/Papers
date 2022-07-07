@@ -6,6 +6,19 @@
 4. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf)
 
 
+#### 2022.aaai
+1. [Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability](https://aaai-2022.virtualchair.net/poster_aaai11028)
+2. [Knowledge Bridging for Empathetic Dialogue Generation](https://aaai-2022.virtualchair.net/poster_aaai8261)
+3. [Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai9950)
+4. [JAKET: Joint Pre-Training of Knowledge Graph and Language Understanding](https://aaai-2022.virtualchair.net/poster_aaai4850)
+5. [KID-Review: Knowledge-Guided Scientific Review Generation with Oracle Pre-Training](https://aaai-2022.virtualchair.net/poster_aaai4805)
+6. [Inference and Learning with Model Uncertainty in Probabilistic Logic Programs](https://aaai-2022.virtualchair.net/poster_aaai3743)
+7. [Logic Rule Guided Attribution with Dynamic Ablation](https://aaai-2022.virtualchair.net/poster_aaai6542)
+8. [MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai2312)
+9. [Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai9950)
+10. [Weakly Supervised Neural Symbolic Learning for Cognitive Tasks](https://aaai-2022.virtualchair.net/poster_aaai988)
+
+
 #### 2022.acl
 1. [KaFSP- Knowledge-Aware Fuzzy Semantic Parsing for Conversational Question Answering over a Large-Scale Knowledge Base.pdf](https://github.com/ICTKC/Papers_DPC/files/8860698/2022.acl-long.35KaFSP-.Knowledge-Aware.Fuzzy.Semantic.Parsing.for.Conversational.Question.Answering.over.a.Large-Scale.Knowledge.Base.pdf)
 2. [LexSubCon- Integrating Knowledge from Lexical Resources into Contextual Embeddings for Lexical Substitution.pdf](https://github.com/ICTKC/Papers_DPC/files/8860699/2022.acl-long.87-abs.LexSubCon-.Integrating.Knowledge.from.Lexical.Resources.into.Contextual.Embeddings.for.Lexical.Substitution.pdf)
