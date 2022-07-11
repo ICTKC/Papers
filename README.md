@@ -5,6 +5,11 @@
 * NLP
    * NLU
       * [Event Extraction](https://github.com/ICTKC/Papers/blob/main/Event_Extraction.md)
+      * [Intent Classification](https://github.com/ICTKC/Papers/blob/main/Intent_Classification.md)
+      * [Semantic Textual Similarity](https://github.com/ICTKC/Papers/blob/main/Semantic_Textual_Similarity.md)
+      * [Coreference Resolution](https://github.com/ICTKC/Papers/blob/main/Coreference_Resolution.md)
+      * [Dialogue Structure Induction](https://github.com/ICTKC/Papers/blob/main/Dialogue_Structure_Induction.md)
+      
    * NLG
       * [Event to Text](https://github.com/ICTKC/Papers/blob/main/Event2Text.md)
       * [Response Generation](https://github.com/ICTKC/Papers/blob/main/Response_Generation.md)
