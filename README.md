@@ -14,5 +14,5 @@
       * [Event to Text](https://github.com/ICTKC/Papers/blob/main/Event2Text.md)
       * [Response Generation](https://github.com/ICTKC/Papers/blob/main/Response_Generation.md)
 * KG
-      * [iKG] (https://github.com/ICTKC/Papers/blob/main/iKG.md)
+      * [iKG](https://github.com/ICTKC/Papers/blob/main/iKG.md)
 
