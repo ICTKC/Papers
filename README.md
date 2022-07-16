@@ -14,4 +14,5 @@
       * [Event to Text](https://github.com/ICTKC/Papers/blob/main/Event2Text.md)
       * [Response Generation](https://github.com/ICTKC/Papers/blob/main/Response_Generation.md)
 * KG
+   * [Knowledge Representation](https://github.com/ICTKC/Papers/blob/main/Knowledge_Representation.md)
    * [iKG](https://github.com/ICTKC/Papers/blob/main/iKG.md)
