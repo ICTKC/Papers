@@ -4,6 +4,7 @@
 * [Neuro-Symbolic Dual-process Computing](https://github.com/ICTKC/Papers/blob/main/Neuro-Symbolic%20Learning.md)
 * NLP
    * NLU
+      * [Entity Extraction](https://github.com/ICTKC/Papers/blob/main/Entity_Extraction.md)
       * [Event Extraction](https://github.com/ICTKC/Papers/blob/main/Event_Extraction.md)
       * [Intent Detection and Slot Filling](https://github.com/ICTKC/Papers/blob/main/Intent_Detection_and_Slot_Filling.md)
       * [Semantic Textual Similarity](https://github.com/ICTKC/Papers/blob/main/Semantic_Textual_Similarity.md)
