@@ -3,7 +3,7 @@
 1. [[nips19] From System 1 Deep Learning to System 2 Deep Learning](http://www.iro.umontreal.ca/~bengioy/AAAI-9feb2020.pdf) ([_video_](https://www.bilibili.com/video/BV1JX4y1K7nZ))
 2. [Neural-Symbolic Computing- An Effective Methodology for Principled Integration of Machine Learning and Reasoning](https://arxiv.org/abs/1905.06088v1) ([_Yanshun Sun Notes_](); [_Jing Yang Notes_]())
 3. [[tkde21] Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6723067/tkde21.Informed.Machine.Learning.A.Taxonomy.and.Survey.of.Integrating.Prior.Knowledge.into.Learning.Systems.pdf)
-4. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf)
+4. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf) ([YuWei Huang ZhiHu](https://zhuanlan.zhihu.com/p/552721227))
 
 
 #### 2022.aaai
