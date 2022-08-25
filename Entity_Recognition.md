@@ -50,10 +50,4 @@
 15. [emnlp.2021 - Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning](https://aclanthology.org/2021.findings-emnlp.131.pdf)
 16. [emnlp.2021 - Learning from Language Description: Low-shot Named Entity Recognition via Decomposed Framework](https://aclanthology.org/2021.findings-emnlp.139.pdf)
 17. [emnlp.2021 - Named Entity Recognition for Entity Linking: What Works and What’s Next](https://aclanthology.org/2021.findings-emnlp.220.pdf)
-18. [emnlp.2021 - Batavia asked for advice. Pretrained language models for Named Entity Recognition in historical texts.](https://aclanthology.org/2021.latechclfl-1.3.pdf)
-19. [emnlp.2021 - Analysis of Zero-Shot Crosslingual Learning between English and Korean for Named Entity Recognition](https://aclanthology.org/2021.mrl-1.19.pdf)
-20. [emnlp.2021 - Named entity recognition in the Romanian legal domain](https://aclanthology.org/2021.nllp-1.2.pdf)
-21. [emnlp.2021 - Named Entity Recognition in Historic Legal Text: A Transformer and State Machine Ensemble Method](https://aclanthology.org/2021.nllp-1.18.pdf)
-22. [emnlp.2021 - Using Pause Information for More Accurate Entity Recognition](https://aclanthology.org/2021.nlp4convai-1.22.pdf)
-23. [emnlp.2021 - ParsTwiNER: A Corpus for Named Entity Recognition at Informal Persian](https://aclanthology.org/2021.wnut-1.16.pdf)
-24. [emnlp.2021 - Improved Named Entity Recognition for Noisy Call Center Transcripts](https://aclanthology.org/2021.wnut-1.40.pdf)
+
