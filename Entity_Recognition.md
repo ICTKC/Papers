@@ -24,7 +24,7 @@
 19. [acl.2022 - Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124.pdf)
 20. [acl.2022 - Leveraging Expert Guided Adversarial Augmentation For Improving Generalization in Named Entity Recognition](https://aclanthology.org/2022.findings-acl.154.pdf)
 21. [acl.2022 - Label Semantics for Few Shot Named Entity Recognition]([https://aclanthology.org/2022.acl-long.43.pdf](https://aclanthology.org/2022.findings-acl.155.pdf)
-22. [acl.2022 - Learn and Review: Enhancing Continual Named Entity Recognition via Reviewing Synthetic Samples]([https://aclanthology.org/2022.acl-long.43.pdf](https://aclanthology.org/2022.findings-acl.179.pdf)
+22. [acl.2022 - Learn and Review: Enhancing Continual Named Entity Recognition via Reviewing Synthetic Samples](https://aclanthology.org/2022.findings-acl.179.pdf)
 23. [acl.2022 - Cross-domain Named Entity Recognition via Graph Matching](https://aclanthology.org/2022.findings-acl.210.pdf)
 24. [acl.2022 - Extracting Person Names from User Generated Text: Named-Entity Recognition for Combating Human Trafficking](https://aclanthology.org/2022.findings-acl.225.pdf)
 25. [acl.2022 - Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Recognition](https://aclanthology.org/2022.findings-acl.250.pdf)
