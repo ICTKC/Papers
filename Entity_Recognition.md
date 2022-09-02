@@ -38,7 +38,7 @@
 ####
 1. [emnlp.2021 - TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network](https://aclanthology.org/2021.emnlp-main.18.pdf)
 2. [emnlp.2021 - RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models](https://aclanthology.org/2021.emnlp-main.302.pdf)
-3. [emnlp.2021 - ChemNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision](https://aclanthology.org/2021.emnlp-main.424.pdf) [_Shi't Note_](https://zhuanlan.zhihu.com/p/560494237)
+3. [emnlp.2021 - ChemNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision](https://aclanthology.org/2021.emnlp-main.424.pdf) [_(Shi's Note)_](https://zhuanlan.zhihu.com/p/560494237)
 4. [emnlp.2021 - Unsupervised Paraphrasing Consistency Training for Low Resource Named Entity Recognition](https://aclanthology.org/2021.emnlp-main.430.pdf)
 5. [emnlp.2021 - Data Augmentation for Cross-Domain Named Entity Recognition](https://aclanthology.org/2021.emnlp-main.434.pdf)
 6. [emnlp.2021 - PDALN: Progressive Domain Adaptation over a Pre-trained Model for Low-Resource Cross-Domain Named Entity Recognition](https://aclanthology.org/2021.emnlp-main.442.pdf)
