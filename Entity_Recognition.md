@@ -2,7 +2,7 @@
 1. [tkde.2022 - A_Survey_on_Deep_Learning_for_Named_Entity_Recognition.pdf](https://github.com/ICTKC/Papers/files/9389079/A_Survey_on_Deep_Learning_for_Named_Entity_Recognition.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/561455888))
 
 ### aaai.2022
-1. [aaai.2022 - Unified Named Entity Recognition as Word-Word Relation Classification](https://aaai-2022.virtualchair.net/poster_aaai742)
+1. [aaai.2022 - Unified Named Entity Recognition as Word-Word Relation Classification](https://aaai-2022.virtualchair.net/poster_aaai742)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/562158602))
 2. [aaai.2022 - Towards Robust Named Entity Recognition via Temporal Domain Adaptation and Entity Context Understanding](https://aaai-2022.virtualchair.net/poster_dc136)
 ### acl.2022
 #### 
