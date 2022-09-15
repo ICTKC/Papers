@@ -6,7 +6,7 @@
 2. [aaai.2022 - Towards Robust Named Entity Recognition via Temporal Domain Adaptation and Entity Context Understanding](https://aaai-2022.virtualchair.net/poster_dc136)
 ### acl.2022
 #### 
-1. [acl.2022 - An Unsupervised Multiple-Task and Multiple-Teacher Model for Cross-lingual Named Entity Recognition](https://aclanthology.org/2022.acl-long.14.pdf)
+1. [acl.2022 - An Unsupervised Multiple-Task and Multiple-Teacher Model for Cross-lingual Named Entity Recognition](https://aclanthology.org/2022.acl-long.14.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/564767935))
 2. [acl.2022 - Few-Shot Class-Incremental Learning for Named Entity Recognition](https://aclanthology.org/2022.acl-long.43.pdf)
 3. [acl.2022 - Nested Named Entity Recognition with Span-level Graphs](https://aclanthology.org/2022.acl-long.63.pdf)
 4. [acl.2022 - Parallel Instance Query Network for Named Entity Recognition](https://aclanthology.org/2022.acl-long.67.pdf)
