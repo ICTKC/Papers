@@ -75,7 +75,7 @@
 3. [A Probabilistic State Space Model for Joint Inference from Differential Equations and Data](https://proceedings.neurips.cc/paper/2021/hash/6734fa703f6633ab896eecbdfad8953a-Abstract.html)
 
 #### 2021.nature
-1. [Explainable neural networks that simulate reasoning ](https://www.nature.com/articles/s43588-021-00132-w)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/567137621))
+1. [Explainable-neural-networks-that-simulate-.pdf](https://github.com/ICTKC/Papers/files/9630319/Explainable-neural-networks-that-simulate-.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/567137621))
 
 #### 早期
 1. [Harnessing Deep Neural Networks with Logic Rules.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682300/Harnessing.Deep.Neural.Networks.with.Logic.Rules.pdf)
