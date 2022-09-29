@@ -9,7 +9,7 @@
 1. [acl.2022 - An Unsupervised Multiple-Task and Multiple-Teacher Model for Cross-lingual Named Entity Recognition](https://aclanthology.org/2022.acl-long.14.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/564767935))
 2. [acl.2022 - Few-Shot Class-Incremental Learning for Named Entity Recognition](https://aclanthology.org/2022.acl-long.43.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/566056100))
 3. [acl.2022 - Nested Named Entity Recognition with Span-level Graphs](https://aclanthology.org/2022.acl-long.63.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/569232453))
-4. [acl.2022 - Parallel Instance Query Network for Named Entity Recognition](https://aclanthology.org/2022.acl-long.67.pdf)
+4. [acl.2022 - Parallel Instance Query Network for Named Entity Recognition](https://aclanthology.org/2022.acl-long.67.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/569376286))
 5. [acl.2022 - Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks](https://aclanthology.org/2022.acl-long.171.pdf)
 6. [acl.2022 - FiNER: Financial Numeric Entity Recognition for XBRL Tagging](https://aclanthology.org/2022.acl-long.303.pdf)
 7. [acl.2022 - MINER: Improving Out-of-Vocabulary Named Entity Recognition from an Information Theoretic Perspective](https://aclanthology.org/2022.acl-long.383.pdf)
