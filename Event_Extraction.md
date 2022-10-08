@@ -1,7 +1,8 @@
 ## Event Extraction
 
 ### 综述（必读）
-1. [A Compact Survey on Event Extraction: Approaches and Applications](https://arxiv.org/pdf/2107.02126)
+1. [A Compact Survey on Event Extraction: Approaches and Applications](https://arxiv.org/abs/2107.02126)
+2. 
 
 ### 高引文章
 1. [2020.EMNLP - Event Extraction by Answering (Almost) Natural Questions](https://arxiv.org/abs/2004.13625) ([Google Scholar Cites: 108 @ 2022.7](https://scholar.google.com/scholar?cluster=9433872342431399293&hl=zh-CN&as_sdt=2005&sciodt=0,5))
