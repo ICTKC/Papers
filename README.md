@@ -5,6 +5,7 @@
 * NLP
    * NLU
       * [Entity Recognition](https://github.com/ICTKC/Papers/blob/main/Entity_Recognition.md)
+      * [Entity-Relationship Recognition](https://github.com/ICTKC/Papers/blob/main/Entity_Relationship_Recognition.md)
       * [Event Extraction](https://github.com/ICTKC/Papers/blob/main/Event_Extraction.md)
       * QA/Dialogue
          * [Intent Detection and Slot Filling](https://github.com/ICTKC/Papers/blob/main/Intent_Detection_and_Slot_Filling.md)
