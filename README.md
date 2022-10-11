@@ -20,3 +20,5 @@
 * KG
    * [Knowledge Representation](https://github.com/ICTKC/Papers/blob/main/Knowledge_Representation.md)
    * [iKG](https://github.com/ICTKC/Papers/blob/main/iKG.md)
+   * [Knowledge Fusion](https://github.com/ICTKC/Papers/blob/main/Knowledge_Fusion.md)
+   
