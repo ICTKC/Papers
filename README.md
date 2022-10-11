@@ -19,6 +19,5 @@
       * [Response Generation](https://github.com/ICTKC/Papers/blob/main/Response_Generation.md)
 * KG
    * [Knowledge Representation](https://github.com/ICTKC/Papers/blob/main/Knowledge_Representation.md)
-   * [iKG](https://github.com/ICTKC/Papers/blob/main/iKG.md)
-   * [Knowledge Fusion](https://github.com/ICTKC/Papers/blob/main/Knowledge_Fusion.md)
+   * [Entity_Linking](https://github.com/ICTKC/Papers/blob/main/Entity_Linking.md)
    
