@@ -5,6 +5,8 @@
 3. [[tkde21] Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6723067/tkde21.Informed.Machine.Learning.A.Taxonomy.and.Survey.of.Integrating.Prior.Knowledge.into.Learning.Systems.pdf)([_Yanshun Sun Notes_](https://zhuanlan.zhihu.com/p/568100411)[_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/555493207))
 4. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf) ([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/552721227))
 
+#### 高引
+1. [[ECML-PKDD14] Knowledge-Powered Deep Learning for Word Embedding](https://www.microsoft.com/en-us/research/publication/knowledge-powered-deep-learning-for-word-embedding/)
 
 #### 2022.aaai
 1. [Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability](https://aaai-2022.virtualchair.net/poster_aaai11028)
