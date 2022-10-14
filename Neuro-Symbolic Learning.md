@@ -6,8 +6,7 @@
 4. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf) ([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/552721227))
 
 #### 高引
-1. [[ECML-PKDD14] Knowledge-Powered Deep Learning for Word Embedding](https://www.microsoft.com/en-us/research/publication/knowledge-powered-deep-learning-for-word-embedding/)
-2. [[NIPS14]Distilling the Knowledge in a Neural Network(https://arxiv.org/abs/1503.02531)
+
 
 #### 2022.aaai
 1. [Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability](https://aaai-2022.virtualchair.net/poster_aaai11028)
