@@ -6,7 +6,7 @@
 4. [[ijcai20] Graph Neural Networks Meet Neural-Symbolic Computing- A Survey and Perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682301/ijcai20.Graph.Neural.Networks.Meet.Neural-Symbolic.Computing-.A.Survey.and.Perspective.pdf) ([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/552721227))
 
 #### 高引
-
+1. 
 
 #### 2022.aaai
 1. [Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability](https://aaai-2022.virtualchair.net/poster_aaai11028)
