@@ -10,7 +10,7 @@
 
 #### 脑科学
 1. [[Annual review of psychology, 2000] Memory systems in the brain](https://www.annualreviews.org/doi/10.1146/annurev.psych.51.1.599) ([本地下载](https://github.com/ICTKC/Papers/files/9782459/Memory.systems.in.the.brain.pdf))
-2. 
+2. [知乎：记忆系统——神经科学的启示](https://zhuanlan.zhihu.com/p/166692908)
 
 #### 2022.aaai
 1. [Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability](https://aaai-2022.virtualchair.net/poster_aaai11028)
