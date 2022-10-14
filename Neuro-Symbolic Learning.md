@@ -9,7 +9,7 @@
 1. 
 
 #### 脑科学
-1. [[Annual review of psychology, 2000] Memory systems in the brain](https://www.annualreviews.org/doi/10.1146/annurev.psych.51.1.599)[本地](https://github.com/ICTKC/Papers/files/9782459/Memory.systems.in.the.brain.pdf)
+1. [[Annual review of psychology, 2000] Memory systems in the brain](https://www.annualreviews.org/doi/10.1146/annurev.psych.51.1.599) ([本地下载](https://github.com/ICTKC/Papers/files/9782459/Memory.systems.in.the.brain.pdf))
 2. 
 
 #### 2022.aaai
