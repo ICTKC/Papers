@@ -8,6 +8,10 @@
 #### 高引
 1. 
 
+#### 脑科学
+1. [[Annual review of psychology, 2000] Memory systems in the brain](https://www.annualreviews.org/doi/10.1146/annurev.psych.51.1.599)[本地](https://github.com/ICTKC/Papers/files/9782459/Memory.systems.in.the.brain.pdf)
+2. 
+
 #### 2022.aaai
 1. [Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability](https://aaai-2022.virtualchair.net/poster_aaai11028)
 2. [Knowledge Bridging for Empathetic Dialogue Generation](https://aaai-2022.virtualchair.net/poster_aaai8261)
