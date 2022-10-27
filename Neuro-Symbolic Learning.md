@@ -21,8 +21,7 @@
 6. [Inference and Learning with Model Uncertainty in Probabilistic Logic Programs](https://aaai-2022.virtualchair.net/poster_aaai3743)
 7. [Logic Rule Guided Attribution with Dynamic Ablation](https://aaai-2022.virtualchair.net/poster_aaai6542)
 8. [MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai2312)
-9. [Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai9950)
-10. [Weakly Supervised Neural Symbolic Learning for Cognitive Tasks](https://aaai-2022.virtualchair.net/poster_aaai988)
+9. [Weakly Supervised Neural Symbolic Learning for Cognitive Tasks](https://aaai-2022.virtualchair.net/poster_aaai988)
 
 
 #### 2022.acl
