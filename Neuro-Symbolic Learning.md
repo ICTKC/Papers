@@ -15,7 +15,7 @@
 #### 2022.aaai
 1. [Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability](https://aaai-2022.virtualchair.net/poster_aaai11028)
 2. [Knowledge Bridging for Empathetic Dialogue Generation](https://aaai-2022.virtualchair.net/poster_aaai8261)
-3. [Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai9950)
+3. [Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai9950)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/577893918))
 4. [JAKET: Joint Pre-Training of Knowledge Graph and Language Understanding](https://aaai-2022.virtualchair.net/poster_aaai4850)
 5. [KID-Review: Knowledge-Guided Scientific Review Generation with Oracle Pre-Training](https://aaai-2022.virtualchair.net/poster_aaai4805)
 6. [Inference and Learning with Model Uncertainty in Probabilistic Logic Programs](https://aaai-2022.virtualchair.net/poster_aaai3743)
