@@ -60,7 +60,7 @@
 23. [Beyond Text: Incorporating Metadata and Label Structure for Multi-Label Document Classification using Heterogeneous Graphs](https://aclanthology.org/2021.emnlp-main.253/)
 24. [Neural Machine Translation with Heterogeneous Topic Knowledge Embeddings](https://aclanthology.org/2021.emnlp-main.256/)
 25. [Improving Math Word Problems with Pre-trained Knowledge and Hierarchical Reasoning](https://aclanthology.org/2021.emnlp-main.272/)
-26. [Neuro-Symbolic Reinforcement Learning with First-Order Logic](https://aclanthology.org/2021.emnlp-main.283/)
+26. [Neuro-Symbolic Reinforcement Learning with First-Order Logic](https://aclanthology.org/2021.emnlp-main.283/)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/578215054))
 27. [Diagnosing the First-Order Logical Reasoning Ability Through LogicNLI](https://aclanthology.org/2021.emnlp-main.303/)
 28. [Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations](https://aclanthology.org/2021.emnlp-main.348/)
 29. [ChemNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision](https://aclanthology.org/2021.emnlp-main.424/)
