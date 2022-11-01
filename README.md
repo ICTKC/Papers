@@ -15,7 +15,7 @@
       * [Text Classifier](https://github.com/ICTKC/Papers/blob/main/TextClassifier.md)
       
    * NLG
-      * [Event to Text](https://github.com/ICTKC/Papers/blob/main/Event2Text.md)
+      * [Data to Text](https://github.com/ICTKC/Papers/blob/main/Data2Text.md)
       * [Response Generation](https://github.com/ICTKC/Papers/blob/main/Response_Generation.md)
 * KG
    * [Knowledge Representation](https://github.com/ICTKC/Papers/blob/main/Knowledge_Representation.md)
