@@ -13,7 +13,7 @@
 5. [acl.2022 - Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks](https://aclanthology.org/2022.acl-long.171.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/576016251))
 6. [acl.2022 - FiNER: Financial Numeric Entity Recognition for XBRL Tagging](https://aclanthology.org/2022.acl-long.303.pdf)
 7. [acl.2022 - MINER: Improving Out-of-Vocabulary Named Entity Recognition from an Information Theoretic Perspective](https://aclanthology.org/2022.acl-long.383.pdf)
-8. [acl.2022 - Few-shot Named Entity Recognition with Self-describing Networks](https://aclanthology.org/2022.acl-long.392.pdf)
+8. [acl.2022 - Few-shot Named Entity Recognition with Self-describing Networks](https://aclanthology.org/2022.acl-long.392.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/580400058))
 9. [acl.2022 - Nested Named Entity Recognition as Latent Lexicalized Constituency Parsing](https://aclanthology.org/2022.acl-long.428.pdf)
 10. [acl.2022 - CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning](https://aclanthology.org/2022.acl-long.439.pdf)
 11. [acl.2022 - Boundary Smoothing for Named Entity Recognition](https://aclanthology.org/2022.acl-long.490.pdf)
