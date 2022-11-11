@@ -84,7 +84,7 @@
 
 #### 早期
 1. [Harnessing Deep Neural Networks with Logic Rules.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682300/Harnessing.Deep.Neural.Networks.with.Logic.Rules.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/580398867))
-2. [[aaai 2019] DeepLogic - Towards End-to-End Differentiable Logical Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682314/aaai.2019.DeepLogic.-.Towards.End-to-End.Differentiable.Logical.Reasoning.pdf)
+2. [[aaai 2019] DeepLogic - Towards End-to-End Differentiable Logical Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682314/aaai.2019.DeepLogic.-.Towards.End-to-End.Differentiable.Logical.Reasoning.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/582510229))
 3. [[icml 2019] SATNet- Bridging deep learning and logical reasoning using a differentiable satisfiability solver .pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682316/icml.2019.SATNet-.Bridging.deep.learning.and.logical.reasoning.using.a.differentiable.satisfiability.solver.pdf)
 4. [[nips 2017] Differentiable Learning of Logical Rules for Knowledge Base Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682318/nips.2017.Differentiable.Learning.of.Logical.Rules.for.Knowledge.Base.Reasoning.pdf)
 5. [[nips 2019] Bridging Machine Learning and Logical Reasoning by Abductive Learning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682319/nips.2019.Bridging.Machine.Learning.and.Logical.Reasoning.by.Abductive.Learning.pdf)
