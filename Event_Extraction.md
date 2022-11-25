@@ -1,7 +1,7 @@
 ## Event Extraction
 
 ### 综述（必读）
-1. [A Compact Survey on Event Extraction: Approaches and Applications](https://arxiv.org/abs/2107.02126)
+1. [A Compact Survey on Event Extraction: Approaches and Applications](https://arxiv.org/abs/2107.02126)[YangJing's Notes](https://zhuanlan.zhihu.com/p/571485943)
 2. 
 
 ### 高引文章
