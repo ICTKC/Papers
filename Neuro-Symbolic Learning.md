@@ -93,3 +93,5 @@
 8. [[jair 2020] Ontology Reasoning with Deep Neural Networks.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682317/jair.2020.Ontology.Reasoning.with.Deep.Neural.Networks.pdf)
 9. [https://www.sciencedirect.com/topics/psychology/dual-process-theory](https://www.sciencedirect.com/topics/psychology/dual-process-theory)
 10. [Dual-process theories- a metacognitive perspective.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682304/Dual-process.theories-.a.metacognitive.perspective.pdf)
+11. [Neural-Symbolic Learning Systems: Foundations and Applications](https://github.com/ICTKC/Papers/files/10096648/Neural-symbolic.learning.systems-.foundations.and.applications.zip)
+
