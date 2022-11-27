@@ -83,7 +83,7 @@
 1. [Explainable-neural-networks-that-simulate-.pdf](https://github.com/ICTKC/Papers/files/9630319/Explainable-neural-networks-that-simulate-.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/567137621))
 
 #### 早期
-1. ★★★★★[Harnessing Deep Neural Networks with Logic Rules.pdf](https://arxiv.org/abs/1603.06318)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/580398867))
+1. ★★★★★[Harnessing Deep Neural Networks with Logic Rules.pdf](https://arxiv.org/abs/1603.06318)([_Shi's Note_](https://github.com/ICTKC/Papers/blob/main/Notes/Harnessing%20Deep%20Neural%20Networks%20with%20Logic%20Rules.md))([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/580398867))
 2. [[aaai 2019] DeepLogic - Towards End-to-End Differentiable Logical Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682314/aaai.2019.DeepLogic.-.Towards.End-to-End.Differentiable.Logical.Reasoning.pdf)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/582510229))
 3. [[icml 2019] SATNet- Bridging deep learning and logical reasoning using a differentiable satisfiability solver .pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682316/icml.2019.SATNet-.Bridging.deep.learning.and.logical.reasoning.using.a.differentiable.satisfiability.solver.pdf)
 4. [[nips 2017] Differentiable Learning of Logical Rules for Knowledge Base Reasoning.pdf](https://github.com/ICTKC/MustReadPapers_DPC/files/6682318/nips.2017.Differentiable.Learning.of.Logical.Rules.for.Knowledge.Base.Reasoning.pdf)
