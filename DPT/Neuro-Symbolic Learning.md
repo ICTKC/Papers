@@ -50,7 +50,7 @@
 13. [RuleBERT: Teaching Soft Rules to Pre-Trained Language Models *](https://aclanthology.org/2021.emnlp-main.110/)
 14. [How much pretraining data do language models need to learn syntax?](https://aclanthology.org/2021.emnlp-main.118/)
 15. [Knowledge-Aware Meta-learning for Low-Resource Text Classification](https://aclanthology.org/2021.emnlp-main.136/)
-16. [Generation and Extraction Combined Dialogue State Tracking with Hierarchical Ontology Integration](https://aclanthology.org/2021.emnlp-main.171/)
+16. [Generation and Extraction Combined Dialogue State Tracking with Hierarchical Ontology Integration](https://aclanthology.org/2021.emnlp-main.171/)([_YuWei's ZhiHu_](https://zhuanlan.zhihu.com/p/587762810))
 17. [CoLV: A Collaborative Latent Variable Model for Knowledge-Grounded Dialogue Generation](https://aclanthology.org/2021.emnlp-main.172/)
 18. [A Three-Stage Learning Framework for Low-Resource Knowledge-Grounded Dialogue Generation](https://aclanthology.org/2021.emnlp-main.173/)
 19. [Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue](https://aclanthology.org/2021.emnlp-main.174/)
