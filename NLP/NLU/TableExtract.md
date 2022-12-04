@@ -9,3 +9,5 @@ Yiren Li, Zheng Huang, Junchi Yan, Yi Zhou, Fan Ye & Xianhui Li.  [靳大为阅�
 Shubham Singh Paliwal; Vishwanath D; Rohit Rahul; Monika Sharma; Lovekesh Vig.  [靳大为阅读笔记](https://zhuanlan.zhihu.com/p/585800387)
 3. Table Structure Extraction with Bi-directional Gated Recurrent Unit Networks,2019.[paper](https://arxiv.org/pdf/2001.02501.pdf)
 Saqib Ali Khan; Syed Muhammad Daniyal Khalid; Muhammad Ali Shahzad; Faisal Shafait.
+4. PubTables-1M: Towards comprehensive table extraction from unstructured documents. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Smock_PubTables-1M_Towards_Comprehensive_Table_Extraction_From_Unstructured_Documents_CVPR_2022_paper.pdf)
+Brandon Smock; Rohith Pesala; Robin Abraham; Microsoft Redmond, WA
