@@ -1,7 +1,7 @@
 #### 综述
 1. Web表格信息抽取研究综述. 2008. [论文地址](https://github.com/ICTKC/Papers/files/10080863/A.SurVey.of.the.Research.on.Infbrmation.Extraction.oVer.Web.Tables.pdf).赵洪;肖洪;薛德军师;庆辉.
 
-#### web tables
+#### Web tables
 
 1. GFTE: Graph-Based Financial Table Extraction,2021.[paper](https://arxiv.org/pdf/2003.07560.pdf)
 Yiren Li, Zheng Huang, Junchi Yan, Yi Zhou, Fan Ye & Xianhui Li.  [靳大为阅读笔记](https://zhuanlan.zhihu.com/p/585757995)
