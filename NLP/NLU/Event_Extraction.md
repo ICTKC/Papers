@@ -9,6 +9,7 @@
 2. [2019.ACL - Exploring Pre-trained Language Models for Event Extraction and Generation](https://aclanthology.org/P19-1522.pdf)([Google Scholar Cites: 176 @ 2022.11](https://xueshu.studiodahu.com/scholar?q=Exploring+Pre-trained+Language+Models+for+Event+Extraction+and+Generation))[(_YangJing's Notes_)](https://zhuanlan.zhihu.com/p/583407618)
 3. [2020.EMNLP - Event Extraction as Multi-turn Question Answering](https://aclanthology.org/2020.findings-emnlp.73.pdf)([Google Scholar Cites: 53 @ 2022.12](https://xueshu.studiodahu.com/scholar?start=0&hl=zh-CN&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2022&cites=2679442991755185414&scipsc=))
 4. [2020.ACL - Improving Event Detection via Open-domain Trigger Knowledge](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8453&context=sis_research)([Google Scholar Cites: 57 @ 2022.12](https://xueshu.studiodahu.com/scholar?start=0&hl=zh-CN&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2022&cites=2679442991755185414&scipsc=))
+5. [2020.WSDM - Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection](https://arxiv.org/pdf/1910.11621.pdf)([Google Scholar Cites: 59 @ 2022.12](https://xueshu.studiodahu.com/scholar?start=0&hl=zh-CN&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2022&cites=2679442991755185414&scipsc=))
 
 ### 2022.acl
 1. [2022.ACL - UIE: Unified Structure Generation for Universal Information Extraction](https://arxiv.org/pdf/2203.12277.pdf)
