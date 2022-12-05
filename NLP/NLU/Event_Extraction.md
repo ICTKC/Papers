@@ -24,6 +24,9 @@
 ### 2021.emnlp
 1. [2021.EMNLP - Exploring Sentence Community for Document-Level Event Extraction](https://aclanthology.org/2021.findings-emnlp.32.pdf)
 
+### 2020.emnlp
+1. [2020.EMNLP - Event Extraction as Multi-turn Question Answering](https://aclanthology.org/2020.findings-emnlp.73.pdf)
+
 ### 2019.emnlp
 1. [2019.EMNLP - Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction](https://arxiv.org/pdf/1904.07535.pdf)
 
