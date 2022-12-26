@@ -1,6 +1,6 @@
 #### 综述
 1. Web表格信息抽取研究综述. 2008. [论文地址](https://github.com/ICTKC/Papers/files/10080863/A.SurVey.of.the.Research.on.Infbrmation.Extraction.oVer.Web.Tables.pdf).赵洪;肖洪;薛德军师;庆辉.
-2.[WEB TABLE EXTRACTION, RETRIEVAL AND AUGMENTATION: A SURVEY](https://github.com/ICTKC/Papers/files/10302226/2002.00207.pdf)
+2. [WEB TABLE EXTRACTION, RETRIEVAL AND AUGMENTATION: A SURVEY](https://github.com/ICTKC/Papers/files/10302226/2002.00207.pdf)
 
 #### Web tables
 
